@@ -35,7 +35,8 @@ Model IDs match Tables 9 and 10 in the thesis.
 
 - `notebook.ipynb`: all the code with commentary,
   written for Google Colab.
-- `thesis.pdf`: the thesis.
+- `thesis.md`: the thesis, readable here on GitHub (figures in `thesis_files/`).
+- `thesis.pdf`: the thesis as submitted, with the code appendix.
 
 The large files are in the
 [v1.0 release](https://github.com/florisvanrijn/Nile_Tilapia_Disease_Detection_Thesis/releases/tag/v1.0):
