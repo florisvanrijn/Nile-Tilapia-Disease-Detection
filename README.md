@@ -64,3 +64,10 @@ About 11,000 images (3 GB) in two classes, `Healthy_Fish` and `Sick_Fish`, on
 
 van Rijn, F. (2023). *Nile Tilapia Disease Detection Using Deep Learning*. MSc thesis, University
 of Bath.
+
+## License
+
+The code, model weights and 3D models are MIT licensed (see `LICENSE`): anyone can use, change and
+share them, commercially too, as long as they keep the copyright notice. The thesis PDF and the
+presentation stay under my copyright because they include figures from other papers; cite them as
+above.
