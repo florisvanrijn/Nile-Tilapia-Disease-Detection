@@ -33,9 +33,9 @@ Model IDs match Tables 9 and 10 in the thesis.
 
 ## What's in this repository
 
-- `Nile_Tilapia_Disease_Detection_Using_Deep_Learning_Thesis.ipynb`: all the code with commentary,
+- `notebook.ipynb`: all the code with commentary,
   written for Google Colab.
-- `Thesis_Nile_Tilapia_Disease_Detection_Floris_van_Rijn.pdf`: the thesis.
+- `thesis.pdf`: the thesis.
 
 The large files are in the
 [v1.0 release](https://github.com/florisvanrijn/Nile_Tilapia_Disease_Detection_Thesis/releases/tag/v1.0):
